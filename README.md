@@ -1,1 +1,2 @@
-# cv_tp1. Alumno: Perez Millan Rodrigo
+CV TP1
+Alumno: Perez Millan Rodrigo
